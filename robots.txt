@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tests/
+Disallow: /build_site.py
+Sitemap: https://tools.devareayt.in/sitemap.xml

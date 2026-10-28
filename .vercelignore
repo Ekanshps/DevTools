@@ -1,0 +1,7 @@
+README.md
+KEYWORD-RESEARCH.md
+build_site.py
+package.json
+tests/
+.gitignore
+.vercelignore

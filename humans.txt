@@ -1,0 +1,6 @@
+DevArea Tools
+A focused developer utility project from DevArea.
+
+Tools: JWT inspector and CSS clamp generator.
+Technical content links to official standards and browser documentation.
+Contact: ekanshprataps@gmail.com

@@ -1,0 +1,9 @@
+{
+  "name": "DevArea Tools",
+  "short_name": "DA Tools",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f0e9",
+  "theme_color": "#171a1b",
+  "icons": []
+}
